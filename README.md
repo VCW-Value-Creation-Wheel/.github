@@ -1,5 +1,0 @@
-# VCW-Value-Creation-Wheel
-
-VCW - Value Creation Wheel is a real-life problem-solving framework frequently used by key decision-makers of organizations, governments, and societies to solve their priority challenges and problems. It is also frequently applied by individuals to solve their personal challenges. 
-
-The VCW is used in over 20 countries for teaching, research, coaching, and consultancy purposes. It results from two decades of partnerships across the world. It has been applied as a problem-solving tool in companies across different sectors (from start-ups to Fortune 500 companies), public policy projects (from rebranding of cities until the creation of innovation cities), and over 20 schools across different countries specialized in different fields (e.g., business, medical, biotech, engineering and technology, law, and science schools). These two decades of projects and research led to the VCW’s robustness. Its unique DIANA (theory) and TIAGO (practice) databases need to be managed in every VCW project across 4 critical dimensions: depth, height, width, and 3Ms (Menpower, Minute, Money).
