@@ -25,7 +25,8 @@
 
 VCW - Value Creation Wheel is a real-life problem-solving framework frequently used by key decision-makers of organizations, governments, and societies to solve their priority challenges and problems. It is also frequently applied by individuals to solve their personal challenges.
 
-The VCW is used in over 20 countries for teaching, research, coaching, and consultancy purposes. It results from two decades of partnerships across the world. It has been applied as a problem-solving tool in companies across different sectors (from start-ups to Fortune 500 companies), public policy projects (from rebranding of cities until the creation of innovation cities), and over 20 schools across different countries specialized in different fields (e.g., business, medical, biotech, engineering and technology, law, and science schools). These two decades of projects and research led to the VCW’s robustness. Its unique DIANA (theory) and TIAGO (practice) databases need to be managed in every VCW project across 4 critical dimensions: depth, height, width, and 3Ms (Menpower, Minute, Money).
+The VCW is used in over 20 countries for teaching, research, coaching, and consultancy purposes. It results from two decades of partnerships across the world. It has been applied as a problem-solving tool in companies across different sectors (from start-ups to Fortune 500 companies), public policy projects (from rebranding of cities until the creation of innovation cities), and over 20 schools across different countries specialized in different fields (e.g., business, medical, biotech, engineering and technology, law, and science schools). These two decades of projects and research led to the VCW’s robustness. Its unique DIANA (theory) and TIAGO (practice) databases need to be managed in every VCW project across 4 critical dimensions: depth, height, width, and 3Ms (Menpower, Minute, Money).<br>
+Official Website: [ValueCreationWheel.com](https://www.valuecreationwheel.com/)
 
 ## <a name="vcw-process">The 5-Stage VCW Process</a>
 
@@ -65,16 +66,16 @@ Created by Professor Luís Filipe Lages at Nova School of Business and Economics
 <table align="center">
   <tr>
     <td align="center" width="130">
-      <a href="#whymob">
-        <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/whymob.png" width="55" height="46" />
+      <a href="#EU">
+        <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/european%20union.png" width="55" height="46" />
       </a>
-      <br>WhyMob
+      <br>European Union
     </td>
     <td align="center" width="130">
-      <a href="#thomson-reuters">
-        <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/thomson%20reuters.png" width="55" height="46" />
+      <a href="#airbus">
+        <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/airbus.png" width="55" height="46" />
       </a>
-      <br>Thomson Reuters
+      <br>Airbus
     </td>
     <td align="center" width="130">
       <a href="#the-camp">
@@ -223,16 +224,22 @@ Created by Professor Luís Filipe Lages at Nova School of Business and Economics
       <br>Airtrans Express
     </td>
     <td align="center" width="130">
-      <a href="#airbus">
-        <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/airbus.png" width="55" height="46" />
+      <a href="#thomson-reuters">
+        <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/thomson%20reuters.png" width="55" height="46" />
       </a>
-      <br>Airbus
+      <br>Thomson Reuters
     </td>
     <td align="center" width="130">
       <a href="#air-products">
         <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/air%20products.png" width="55" height="46" />
       </a>
       <br>Air Products
+    </td>
+    <td align="center" width="130">
+      <a href="#whymob">
+        <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/whymob.png" width="55" height="46" />
+      </a>
+      <br>WhyMob
     </td>
   </tr>
 </table>
@@ -248,6 +255,18 @@ Created by Professor Luís Filipe Lages at Nova School of Business and Economics
       <br>Nova SBE
     </td>
     <td align="center" width="130">
+      <a href="#nova-executive-education">
+        <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/nova%20executive%20education.png" width="55" height="46" />
+      </a>
+      <br>Nova Executive Education
+    </td>
+    <td align="center" width="130">
+      <a href="#itqb-nova">
+        <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/itqb%20nova.png" width="55" height="46" />
+      </a>
+      <br>ITQB Nova
+    </td>
+    <td align="center" width="130">
       <a href="#goethe-university">
         <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/goethe%20university%20frankfurt%20am%20main.png" width="55" height="46" />
       </a>
@@ -260,22 +279,10 @@ Created by Professor Luís Filipe Lages at Nova School of Business and Economics
       <br>WBS
     </td>
     <td align="center" width="130">
-      <a href="#nova-executive-education">
-        <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/nova%20executive%20education.png" width="55" height="46" />
-      </a>
-      <br>Nova Executive Education
-    </td>
-    <td align="center" width="130">
       <a href="#korea-university">
         <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/korea%20university.png" width="55" height="46" />
       </a>
       <br>Korea University
-    </td>
-    <td align="center" width="130">
-      <a href="#itqb-nova">
-        <img src="https://github.com/VCW-Value-Creation-Wheel/.github/blob/main/itqb%20nova.png" width="55" height="46" />
-      </a>
-      <br>ITQB Nova
     </td>
   </tr>
   <tr>
