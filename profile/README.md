@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#what-is-vcw">What is VCW?</a> •
   <a href="#vcw-process">The 5-Stage VCW Process</a> •
-  <a href="#core-principles">Core Principles</a> •
+  <a href="#use-cases">Strategic Use Cases of the VCW</a> •
   <a href="#frameworks">Versatile Frameworks</a> •
   <a href="#developed-by">Developed by</a> •
   <a href="#partners">Partners</a> •
@@ -38,15 +38,55 @@ Our method guides key decision-makers through a comprehensive journey:
 + Narrow Down to Create Maximum Value
 + Act and Control Implementation
 
-## <a name="core-principles">Core Principles of Value Creation</a>
+## <a name="use-cases">Strategic Use Cases of the Value Creation Wheel</a>
 
-The VCW is built on five supporting pillars:
+### Business and Technology Innovation
+- Entrepreneurship & Start-ups
+- Technology, IT & Data Management
+- Space Business & Earth Observation Commercialization
+- Tech-Transfer & Product-Market Fit
+- International Business & Global Marketing
+- Innovation Management
 
-+ Sustainability
-+ Common Good
-+ Collaboration
-+ Wisdom
-+ Transparency
+### Sustainability and Social Impact
+- Climate Change & Sea Monitoring
+- Sustainability
+- Corporate Social Responsibility
+- Urban Mobility & CO2 Reduction
+- Natural Disaster Mitigation
+
+### Industry-Specific Solutions
+- Biotech, Pharma & Healthcare Management
+- Forestry, Agriculture & Land Management
+- Energy Sector Optimization
+- Real Estate & Urban Development
+- Tourism and Leisure Management
+- Maritime and Aquaculture Industries
+
+### Organizational Development
+- Leadership Strategies
+- Human Resources & Job Satisfaction
+- Operations & Supply Chain Management
+- Marketing and Sales Strategies
+- Services Management
+
+### Digital and Communication Transformation
+- Data Science & Artificial Intelligence
+- Communication & Stakeholder Engagement
+- Media & Digital Platforms
+- Security and Infrastructure Technologies
+
+### Education and Social Development
+- Educational Innovation
+- Children and Youth Empowerment
+- Community and Non-Profit Strategies
+- Academic Research and Technology Transfer
+
+### Financial and Strategic Planning
+- Finance and Investment Strategies
+- Retailing & Distribution
+- Sports Management
+- Organizational Strategy Development
 
 ## <a name="frameworks">Versatile Frameworks for Different Needs</a>
 
